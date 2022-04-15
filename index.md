@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "欢迎来到shihongzhou"
 ---
-
-I'm glad you are here. I plan to talk about ...
+很高兴与你一起学习
